@@ -1,4 +1,5 @@
 # TouchP
+[![Gem Version](https://badge.fury.io/rb/touch_p.svg)](https://badge.fury.io/rb/touch_p)
 ![Build status](https://github.com/H0R15H0/touch_p/actions/workflows/test.yml/badge.svg)
 
 Touch_p is a cli tool to make file even if directory doesn't exist, like 'mkdir -p'.
